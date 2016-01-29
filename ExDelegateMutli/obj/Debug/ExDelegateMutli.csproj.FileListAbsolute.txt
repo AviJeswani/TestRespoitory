@@ -1,0 +1,4 @@
+E:\New folder\ExDelegateMutli\ExDelegateMutli\bin\Debug\ExDelegateMutli.exe
+E:\New folder\ExDelegateMutli\ExDelegateMutli\bin\Debug\ExDelegateMutli.pdb
+E:\New folder\ExDelegateMutli\ExDelegateMutli\obj\Debug\ExDelegateMutli.exe
+E:\New folder\ExDelegateMutli\ExDelegateMutli\obj\Debug\ExDelegateMutli.pdb
